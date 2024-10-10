@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "vite --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^23.1.2",
+    "dat.gui": "^0.7.9",
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "sass": "^1.77.1",
+    "vite": "^5.2.11"
+  }
+}
